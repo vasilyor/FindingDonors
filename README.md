@@ -2,7 +2,7 @@
 
 ### Data Scientist Nanodegree - Supervised Learning
 
-This project I used supervised algorithm for accurately model individuals' income using data collected from the 1994 U.S. Census. 
+In this project I used supervised algorithm for accurately model individuals' income using data collected from the 1994 U.S. Census. 
 
 ### Install
 ---
